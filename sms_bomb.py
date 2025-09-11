@@ -9,7 +9,7 @@ auth_token = 'your_auth_token'
 from_number = '03000000000'
 
 # Target phone number
-to_number = '03178596207'
+to_number = '03000000000'
 
 # Message to send
 message = 'Hello, this is a test message!'
@@ -38,5 +38,6 @@ while True:
         break
     if time.time() - start_time >= 60:  # Check if 1 minute has passed
         break
+
 
 print('SMS bombing stopped.')
