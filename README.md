@@ -29,7 +29,7 @@ Installation
 
 Clone this repository:
 
-git clone https://github.com/your-username/sms-bomb.git
+git clone https://github.com/Zeeshan-Khan-dev/sms-bomb.git
 cd sms-bomb
 
 
